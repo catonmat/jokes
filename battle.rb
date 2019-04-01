@@ -1,4 +1,3 @@
 def battle
+  # Write your code here.
 end
-
-p battle
