@@ -1,3 +1,3 @@
 def battle
-  # Write your code here.
+  # Write your code here!
 end
